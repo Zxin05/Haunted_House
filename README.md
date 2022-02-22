@@ -7,8 +7,9 @@
 ## Things that i learn 
 ### -how to write a vision novel
 ### -how to put music, images and sound on the project
-#### (I use the form of create a folder with the name music on the game folder, than puting the code before the scene that i want, the code is play sound NAME)
+#### (I use the form of create a folde for only music inside of the game folder, than puting the code before the scene that i want, the code is play sound NAME)
 ### -how to change scenes and backgrounds
+#### (I use the form of create a folder for only images inside of the game folder, that puting at first of the scene, the code is show scene NAME than to take it off is hide scene NAME)
 ### -how to move the characters on one side
 ## things that i can teach
 ### -how to create an visional novel using Renpy
