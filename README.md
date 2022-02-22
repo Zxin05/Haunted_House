@@ -1,7 +1,7 @@
 ## project: Haunted_House
 
 ## members of the group:
-### xin and xuezhi
+#### xin and xuezhi
 
 ## things that i learn 
 
